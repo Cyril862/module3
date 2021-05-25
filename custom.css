@@ -1,0 +1,22 @@
+h2{
+    margin-top: 3%;
+}
+h3{
+    margin-top: 3%;
+}
+p{
+    margin-top: 2%;
+    height:900px;
+    font-size: large;
+    margin-bottom: auto;
+   
+}
+.container-fluid{
+    background-color: grey;
+    width: 90%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    height: auto;
+   
+    
+}
